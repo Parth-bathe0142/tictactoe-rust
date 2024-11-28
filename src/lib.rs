@@ -1,3 +1,6 @@
+
+/// build command: wasm-pack build --out-dir tictactoe_node\wasm
+
 pub mod utils;
 pub mod models;
 pub mod ai;
